@@ -1,0 +1,3 @@
+nginx
+docker.io
+python3
